@@ -1,2 +1,2 @@
 # cv
-My Incomplete CV
+My Incomplete stylized CV
